@@ -1,4 +1,7 @@
-Hi stranger 👋
+Hi stranger <img alt="frog" 
+     width="60"
+     height="60" 
+     src="https://github.com/hille2/hille2/blob/main/icon/static-assets-upload2932538397053031834.gif?raw=true"/>
 ---
 
 Hi, I am Yu (she / she) - student of school 21💕
