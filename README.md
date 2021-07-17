@@ -6,7 +6,7 @@ Hi stranger <img alt="frog"
 
 Hi, I am Yu (she / she) - student of school 21💕
 
-
+*Check out my [`CV`](https://github.com/hille2/hille2/blob/main/CV_Kovalski_YU.pdf)*
 
 
 <a href="https://github.com/hille2/hille2">
