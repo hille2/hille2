@@ -4,7 +4,9 @@ Hi stranger <img alt="frog"
      src="https://github.com/hille2/hille2/blob/main/icon/static-assets-upload2932538397053031834.gif?raw=true"/>
 ---
 
-Hi, I am Yu (she / she) - student of school 21💕
+Hi, I am Yu (she / she)
+- [X] student of school 21 / Ecole 42💕
+- [X] junior system ingineer InnoGeoTech
 
 *Check out my [`CV`](https://github.com/hille2/hille2/blob/main/CV_Kovalski_YU.pdf)*
 
