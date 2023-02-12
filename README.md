@@ -6,7 +6,7 @@ Hi stranger <img alt="frog"
 
 Hi, I am Yu (she / she)
 - [X] student of school 21 / Ecole 42💕
-- [X] junior system ingineer I-novus
+- [X] system ingineer I-novus
 
 *Check out my [`CV`](https://github.com/yukovalski/yukovalski/blob/main/CV_Kovalski_YU.pdf)*
 
