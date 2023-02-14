@@ -8,7 +8,7 @@ Hi, I am Yu (she / she)
 - [X] student of school 21 / Ecole 42💕
 - [X] system ingineer I-novus
 
-*Check out my [`CV`](https://github.com/yukovalski/yukovalski/blob/main/CV_Kovalski_YU.pdf)*
+*Check out my [`CV`](https://github.com/yukovalski/yukovalski/blob/main/CV_Kovalski_Yulia.pdf)*
 
 
 <a href="https://github.com/yukovalski/yukovalski">
