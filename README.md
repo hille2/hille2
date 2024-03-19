@@ -5,8 +5,8 @@ Hi stranger <img alt="frog"
 ---
 
 Hi, I am Yu (she / she)
-- [X] student of school 21 / Ecole 42💕
-- [X] system ingineer I-novus
+- [X] student of Ecole 42💕
+- [X] System administrator @ Selectel
 
 *Check out my [`CV`](https://github.com/yukovalski/yukovalski/blob/main/CV_Kovalski_Yulia.pdf)*
 
